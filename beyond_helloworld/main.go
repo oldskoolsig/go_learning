@@ -50,7 +50,7 @@ func main () {
 
      Sample C code, which behaves DIFFERENTLY than GO:
 
-     include <stdio.h>
+    #include <stdio.h>
 
     int main (void) {
       double d = 1.0;
